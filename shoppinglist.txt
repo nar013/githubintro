@@ -5,3 +5,4 @@ oranges
 pears
 bananas
 carrots
+cereal
